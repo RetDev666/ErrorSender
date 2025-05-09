@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xmvPttLfa0E=",
+  "dgSpecHash": "FzR7HTtQzB0=",
   "success": true,
   "projectFilePath": "/Users/mac/Downloads/ErrorSender/ErrSendWebApi/ErrSendWebApi.csproj",
   "expectedPackageFiles": [
@@ -53,7 +53,9 @@
     "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.1.1/swashbuckle.aspnetcore.swaggergen.8.1.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.1.1/swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512",
-    "/Users/mac/.nuget/packages/system.io.packaging/8.0.1/system.io.packaging.8.0.1.nupkg.sha512"
+    "/Users/mac/.nuget/packages/system.io.packaging/8.0.1/system.io.packaging.8.0.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512",
+    "/Users/mac/.nuget/packages/telegram.bot/22.4.4/telegram.bot.22.4.4.nupkg.sha512"
   ],
   "logs": []
 }

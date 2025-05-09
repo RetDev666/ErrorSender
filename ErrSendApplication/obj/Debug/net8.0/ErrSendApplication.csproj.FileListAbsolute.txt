@@ -3,3 +3,14 @@
 /Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.AssemblyInfoInputs.cache
 /Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.AssemblyInfo.cs
 /Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/bin/Debug/net8.0/ErrSendApplication.deps.json
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/bin/Debug/net8.0/ErrSendApplication.dll
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/bin/Debug/net8.0/ErrSendApplication.pdb
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/bin/Debug/net8.0/Domain.dll
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/bin/Debug/net8.0/Domain.pdb
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.sourcelink.json
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendA.5319EB74.Up2Date
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.dll
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/refint/ErrSendApplication.dll
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.pdb
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ref/ErrSendApplication.dll
