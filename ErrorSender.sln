@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CORE", "CORE", "{055D50BC-6CE0-484F-90F3-21CB04BB84BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "INFRASTRUCTURE", "INFRASTRUCTURE", "{9678097C-8E53-4928-98F1-1B614AFA7E54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PRESENTATION", "PRESENTATION", "{05556BBB-FB54-4760-8151-CB5AA261570D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{394E1BA2-EFF6-4A2D-B315-564B76A26D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrSendApplication", "ErrSendApplication\ErrSendApplication.csproj", "{AB31BCC9-0169-4BD5-B6E6-3FE6E735D9A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrSendPersistensTelegram", "ErrSendPersistensTelegram\ErrSendPersistensTelegram.csproj", "{9AD9C9AC-3CE3-46EC-8F9B-A54C6A638E5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrSendWebApi", "ErrSendWebApi\ErrSendWebApi.csproj", "{A98EAA98-E819-48A7-97E7-7B4BBA8A756F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394E1BA2-EFF6-4A2D-B315-564B76A26D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394E1BA2-EFF6-4A2D-B315-564B76A26D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394E1BA2-EFF6-4A2D-B315-564B76A26D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394E1BA2-EFF6-4A2D-B315-564B76A26D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB31BCC9-0169-4BD5-B6E6-3FE6E735D9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB31BCC9-0169-4BD5-B6E6-3FE6E735D9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB31BCC9-0169-4BD5-B6E6-3FE6E735D9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB31BCC9-0169-4BD5-B6E6-3FE6E735D9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD9C9AC-3CE3-46EC-8F9B-A54C6A638E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD9C9AC-3CE3-46EC-8F9B-A54C6A638E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD9C9AC-3CE3-46EC-8F9B-A54C6A638E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD9C9AC-3CE3-46EC-8F9B-A54C6A638E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98EAA98-E819-48A7-97E7-7B4BBA8A756F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98EAA98-E819-48A7-97E7-7B4BBA8A756F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98EAA98-E819-48A7-97E7-7B4BBA8A756F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98EAA98-E819-48A7-97E7-7B4BBA8A756F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{394E1BA2-EFF6-4A2D-B315-564B76A26D4C} = {055D50BC-6CE0-484F-90F3-21CB04BB84BB}
+		{AB31BCC9-0169-4BD5-B6E6-3FE6E735D9A5} = {055D50BC-6CE0-484F-90F3-21CB04BB84BB}
+		{9AD9C9AC-3CE3-46EC-8F9B-A54C6A638E5B} = {9678097C-8E53-4928-98F1-1B614AFA7E54}
+		{A98EAA98-E819-48A7-97E7-7B4BBA8A756F} = {05556BBB-FB54-4760-8151-CB5AA261570D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A1A6A5A-7298-430E-9BB5-00F3B43E583C}
+	EndGlobalSection
+EndGlobal

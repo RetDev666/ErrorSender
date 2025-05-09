@@ -1,0 +1,5 @@
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.csproj.AssemblyReference.cache
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.AssemblyInfoInputs.cache
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.AssemblyInfo.cs
+/Users/mac/Downloads/ErrorSender/ErrSendApplication/obj/Debug/net8.0/ErrSendApplication.csproj.CoreCompileInputs.cache

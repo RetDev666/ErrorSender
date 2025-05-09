@@ -1,0 +1,11 @@
+/Users/mac/Downloads/ErrorSender/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/mac/Downloads/ErrorSender/Domain/bin/Debug/net8.0/Domain.dll
+/Users/mac/Downloads/ErrorSender/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/mac/Downloads/ErrorSender/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/ErrorSender/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/mac/Downloads/ErrorSender/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/mac/Downloads/ErrorSender/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/ErrorSender/Domain/obj/Debug/net8.0/Domain.dll
+/Users/mac/Downloads/ErrorSender/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/mac/Downloads/ErrorSender/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/mac/Downloads/ErrorSender/Domain/obj/Debug/net8.0/ref/Domain.dll
